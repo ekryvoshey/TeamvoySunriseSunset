@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Sunrise &amp; Sunset </string>
+    <string name="location">Location:</string>
+    <string name="sunrise_at">Sunrise at:</string>
+    <string name="sunset_at">Sunset at:</string>
+    <string name="get_sunset_amp_sunrise">Get new location</string>
 </resources>
